@@ -1,7 +1,7 @@
 
 # go-jet
 
-Go implementation of (Jet)[http://jetbus.io].
+Go implementation of [Jet](http://jetbus.io).
 
 ## Usage
 
